@@ -22,5 +22,5 @@ Visual Studio: The project is developed and managed using Visual Studio IDE.
 6. Make a reservation by providing your name and phone number.
 
 # Contributors
--Milica Adamovic
--Eda Yavuz
+Milica Adamovic
+Eda Yavuz
